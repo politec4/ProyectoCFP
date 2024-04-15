@@ -1,0 +1,6 @@
+TI;1146223355;Juan Manuel;García Diaz
+CE;4249600348;Luis Carlos;Fernández Alba
+CE;8114551816;Ana María;López Botello
+CC;6266771297;Juan Manuel;Fernández Alba
+PAS;6979063850;Luz Mery;López Botello
+PAS;0809630138;Luisa Fernanda;Martínez Perez

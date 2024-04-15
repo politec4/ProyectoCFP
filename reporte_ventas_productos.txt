@@ -1,0 +1,5 @@
+Producto4;4,288;353
+Producto1;6,751;352
+Producto2;8,390;339
+Producto3;8,355;323
+Producto5;3,058;158
